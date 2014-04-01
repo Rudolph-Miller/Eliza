@@ -1,0 +1,1 @@
+* This program is Eliza, which can speak English.
